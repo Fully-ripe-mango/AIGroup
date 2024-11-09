@@ -1,2 +1,2 @@
 # DeepLearningGroup
-课程涉及代码
+ai导论课程大作业涉及代码
